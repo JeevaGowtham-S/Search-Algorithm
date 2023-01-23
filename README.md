@@ -112,10 +112,13 @@ else:
 
 ```
 ## Sample Input and Output:
+
 i)
 ![output](/images/1.png)
+
 ii)
 ![output](/images/2.png)
+
 iii)
 ![output](/images/3.png)
 
